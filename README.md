@@ -1,2 +1,2 @@
-# Libgdx_shootemup
-A simple shoot'em up made with LibGDX. Part of the project AGameAMonth.net
+# Libgdx_template
+A game template for LibGDX games. Inlcudes a LoadingScreen, a GameplayScreen, an AssetManager, a SpawnPool, a ParallaxBackground and an AnimatedSprite class.
